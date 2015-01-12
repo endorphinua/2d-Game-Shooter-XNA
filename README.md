@@ -9,4 +9,5 @@ Genre: Shooter
 Technology: XNA
 
 Screenshot:
+
 ![Demo](http://static.archeinfo.ru/git/2dscreenshot.png)
