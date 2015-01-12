@@ -4,9 +4,9 @@
 	License: GPL
 	Last Readme Fix: 12.01.2014
 
-2D Game
-Genre: Shooter
-Technology: XNA
+	2D Game
+	Genre: Shooter
+	Technology: XNA
 
 Screenshot:
 
