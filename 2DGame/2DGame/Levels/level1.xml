@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding='UTF-8' ?>
+<level width="2000" height="750" speed-x="2,75" speed-y="2,75">
+  <object type="gameArea" width="500" height="500" x="285" y="0" speed-x="3,25" speed-y="3,25"/>
+
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="0" y="0" lives-count="100"/>
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="0" y="25" lives-count="100"/>
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="0" y="50" lives-count="100"/>
+  <object type="gameBlock" sprite="box5" width="25" height="25" x="0" y="75" lives-count="100"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="100" sprite="gun_box1" width="20" height="20" x="28" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="150" sprite="gun_box1" width="20" height="20" x="28" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="100" sprite="gun_box1" width="20" height="20" x="28" y="3"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="50" sprite="gun_box1" width="20" height="20" x="53" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="53" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="200" sprite="gun_box1" width="20" height="20" x="53" y="3"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="78" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="78" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="100" sprite="gun_box1" width="20" height="20" x="78" y="3"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="103" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="103" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="100" sprite="gun_box1" width="20" height="20" x="103" y="3"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="50" sprite="gun_box1" width="20" height="20" x="128" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="128" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="128" y="3"/>
+
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="175" y="0" lives-count="100"/>
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="175" y="25" lives-count="100"/>
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="175" y="50" lives-count="100"/>
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="175" y="75" lives-count="100"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="75" y="150" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="75" y="200" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="175" y="325" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="125" y="325" lives-count="100"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="75" y="325" lives-count="100"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="125" y="200" lives-count="100"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="175" y="375" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="175" y="425" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="200" y="450" lives-count="100"/>
+  <object type="gameBlock" sprite="box1" width="25" height="25" x="250" y="450" lives-count="100"/>
+  
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="203" y="425"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="228" y="425"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="253" y="425"/>
+
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="203" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="203" y="28"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="203" y="53"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="330" y="0" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="330" y="50" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="375" y="450" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="375" y="500" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="375" y="550" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="400" y="450" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="450" y="450" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="500" y="450" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="290" y="200" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="290" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="290" y="300" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="315" y="260" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="355" y="260" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="500" y="100" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="500" y="150" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="500" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="500" y="300" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="650" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="650" y="300" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="650" y="350" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="650" y="400" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="650" y="100" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="700" y="100" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="750" y="100" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="800" y="100" lives-count="50"/>
+
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="650" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="675" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="700" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="725" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="750" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="775" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="800" y="3"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="825" y="3"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="650" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="675" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="700" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="725" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="750" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="775" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="800" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="825" y="28"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="650" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="675" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="700" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="725" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="750" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="775" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="800" y="53"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="25" sprite="gun_box1" width="20" height="20" x="825" y="53"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="650" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="675" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="700" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="725" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="750" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="775" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="800" y="78"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="825" y="78"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="825" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="825" y="300" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="825" y="350" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="825" y="400" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="850" y="335" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="900" y="335" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="950" y="335" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1000" y="335" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="950" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1000" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="937" y="360" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="937" y="410" lives-count="50"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="300" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="350" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="400" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="450" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="500" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="550" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="600" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1050" y="535" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1000" y="535" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="950" y="535" lives-count="50"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="945" y="0" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="945" y="50" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="945" y="100" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1100" y="125" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1150" y="125" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1200" y="125" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1250" y="125" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1300" y="125" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1350" y="125" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1100" y="75" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1225" y="0" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1375" y="0" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1375" y="50" lives-count="50"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1275" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1275" y="300" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1275" y="350" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1300" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1350" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1400" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1450" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1500" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1550" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1440" y="275" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1440" y="325" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1440" y="375" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1440" y="425" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1440" y="475" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1360" y="325" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1360" y="375" lives-count="50"/>
+  
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1125" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1175" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1225" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1275" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1325" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1375" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1425" y="625" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1200" y="475" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1250" y="475" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1300" y="475" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1265" y="500" lives-count="50"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1475" y="0" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1475" y="50" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1500" y="75" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1550" y="75" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1600" y="75" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1650" y="75" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1700" y="75" lives-count="50"/>
+ 
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="0" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="50" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="100" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="150" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="200" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="250" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1850" y="300" lives-count="50"/>
+
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1600" y="375" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1650" y="375" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1700" y="375" lives-count="50"/>
+  
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1660" y="475" lives-count="50"/>
+  <object type="gameBlock" sprite="box4" width="25" height="50" x="1660" y="525" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1750" y="515" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1800" y="515" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1550" y="625" lives-count="50"/>
+  <object type="gameBlock" sprite="box2" width="50" height="25" x="1600" y="625" lives-count="50"/>
+  
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1503" y="27"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1527" y="27"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1553" y="27"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1578" y="27"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1603" y="27"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1627" y="27"/>
+  <object type="gameBonus" bonus-type="bullet" bonus-value="75" sprite="gun_box1" width="20" height="20" x="1653" y="27"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="1678" y="27"/>
+  <object type="gameBonus" bonus-type="health" bonus-value="25" sprite="health_bonus" width="20" height="20" x="1703" y="27"/>
+
+  <object type="gameEnemy" sprite="enemy" width="25" height="25" x="410" y="357" enemy-type="easy" algorithm="dijkstra"/>
+  <object type="gameEnemy" sprite="enemy" width="25" height="25" x="192" y="290" enemy-type="easy" algorithm="a-star"/>
+  <object type="gameEnemy" sprite="enemy" width="25" height="25" x="398" y="168" enemy-type="easy" algorithm="dijkstra"/>
+
+  <object type="gameBonus" bonus-type="weapon" bonus-value="2" sprite="ak47_bonus" width="55" height="25" x="100" y="350"/>
+
+</level>

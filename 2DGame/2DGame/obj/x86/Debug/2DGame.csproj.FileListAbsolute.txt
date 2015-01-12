@@ -1,0 +1,98 @@
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\2DGame.exe
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\2DGame.pdb
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\obj\x86\Debug\2DGame.csprojResolveAssemblyReference.cache
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\obj\x86\Debug\2DGame.exe
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\obj\x86\Debug\2DGame.pdb
+c:\users\сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\shot.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Segoe UI.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\point.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\horisontalLine.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\verticalLine.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\aShot.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\mainTheme.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\audio.xgs
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\hline_25.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\vline_25.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\ak47.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\pistol.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\sidebar.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\minigun.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\weaponTexture.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box1.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box2.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\bg.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box3.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box4.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box5.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\gun_box1.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Levels\level1.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\AI\Templates\Snake.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\AI\Templates\Round.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\AI\Templates\Square.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged1.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged2.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged3.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged1.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged2.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged3.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\ak47_bonus.xnb
+C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\GameOver.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Levels\level1.xml
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\horisontalLine.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\verticalLine.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\point.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\hline_25.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\vline_25.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\ak47.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\pistol.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\sidebar.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\minigun.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\weaponTexture.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box1.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box2.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\bg.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\shot.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box3.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box4.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box5.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\gun_box1.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged1.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged2.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged3.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged1.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged2.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged3.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\ak47_bonus.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Segoe UI.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\GameOver.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\aShot.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\mainTheme.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\audio.xgs
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Wave Bank.xwb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Sound Bank.xsb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\2DGame.exe
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\2DGame.pdb
+D:\Developing\C#\2DGame\2DGame\2DGame\obj\x86\Debug\2DGame.csprojResolveAssemblyReference.cache
+D:\Developing\C#\2DGame\2DGame\2DGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Developing\C#\2DGame\2DGame\2DGame\obj\x86\Debug\2DGame.exe
+D:\Developing\C#\2DGame\2DGame\2DGame\obj\x86\Debug\2DGame.pdb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\CHANGELOG.txt
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\health_bonus.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Script MT Bold.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\game_over.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\win.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\BulletsFont.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\ak47_sidebar.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\minigun_sidebar.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\pistol_sidebar.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\win_full.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\game_over_full.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\vertex.xnb
+D:\Developing\C#\2DGame\2DGame\2DGame\bin\x86\Debug\Content\vertex_red.xnb

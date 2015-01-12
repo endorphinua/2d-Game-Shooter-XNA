@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-10-17T12:58:22.8767925+03:00</Time>
+    </Item>
+    <Item>
+      <Source>horisontalLine.png</Source>
+      <Name>horisontalLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\horisontalLine.xnb</Output>
+      <Time>2013-10-17T13:37:06.3195647+03:00</Time>
+    </Item>
+    <Item>
+      <Source>verticalLine.png</Source>
+      <Name>verticalLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\verticalLine.xnb</Output>
+      <Time>2013-10-17T13:37:06.3245713+03:00</Time>
+    </Item>
+    <Item>
+      <Source>point.png</Source>
+      <Name>point</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\point.xnb</Output>
+      <Time>2013-10-17T16:55:17.1473531+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hline_25.png</Source>
+      <Name>hline_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\hline_25.xnb</Output>
+      <Time>2013-10-17T17:16:35.1094816+03:00</Time>
+    </Item>
+    <Item>
+      <Source>vline_25.png</Source>
+      <Name>vline_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\vline_25.xnb</Output>
+      <Time>2013-10-17T17:16:35.1144836+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ak47.png</Source>
+      <Name>ak47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\ak47.xnb</Output>
+      <Time>2013-10-17T18:13:14.8287989+03:00</Time>
+    </Item>
+    <Item>
+      <Source>pistol.png</Source>
+      <Name>pistol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\pistol.xnb</Output>
+      <Time>2013-10-17T18:13:14.8248004+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sidebar.png</Source>
+      <Name>sidebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\sidebar.xnb</Output>
+      <Time>2013-10-17T18:30:09.1377047+03:00</Time>
+    </Item>
+    <Item>
+      <Source>minigun.png</Source>
+      <Name>minigun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\minigun.xnb</Output>
+      <Time>2013-10-17T21:26:25.3426744+03:00</Time>
+    </Item>
+    <Item>
+      <Source>weaponTexture.png</Source>
+      <Name>weaponTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\weaponTexture.xnb</Output>
+      <Time>2013-10-17T21:46:08.5965472+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\box1.png</Source>
+      <Name>level1\box1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box1.xnb</Output>
+      <Time>2013-10-20T18:26:44.7899533+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\box2.png</Source>
+      <Name>level1\box2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box2.xnb</Output>
+      <Time>2013-10-20T18:24:42.5149657+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\bg.png</Source>
+      <Name>level1\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\bg.xnb</Output>
+      <Time>2013-10-20T23:03:53.0126029+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shot.png</Source>
+      <Name>shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\shot.xnb</Output>
+      <Time>2013-10-20T21:51:23.3700956+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\box3.png</Source>
+      <Name>level1\box3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box3.xnb</Output>
+      <Time>2013-10-20T21:56:20.7795655+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\box4.png</Source>
+      <Name>level1\box4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box4.xnb</Output>
+      <Time>2013-10-21T09:42:23.8259475+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\box5.png</Source>
+      <Name>level1\box5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\box5.xnb</Output>
+      <Time>2013-10-21T09:46:11.5801537+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\gun_box1.png</Source>
+      <Name>level1\gun_box1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\gun_box1.xnb</Output>
+      <Time>2013-10-21T11:30:15.0192653+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\enemy.png</Source>
+      <Name>level1\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy.xnb</Output>
+      <Time>2013-10-22T18:38:35.6199148+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\enemy_damaged1.png</Source>
+      <Name>level1\enemy_damaged1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged1.xnb</Output>
+      <Time>2013-10-23T13:57:47.7729557+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\enemy_damaged2.png</Source>
+      <Name>level1\enemy_damaged2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged2.xnb</Output>
+      <Time>2013-10-23T13:57:47.7749538+03:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\enemy_damaged3.png</Source>
+      <Name>level1\enemy_damaged3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\enemy_damaged3.xnb</Output>
+      <Time>2013-10-23T13:57:47.775954+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_damaged1.png</Source>
+      <Name>player_damaged1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged1.xnb</Output>
+      <Time>2013-10-23T13:59:56.366221+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_damaged2.png</Source>
+      <Name>player_damaged2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged2.xnb</Output>
+      <Time>2013-10-23T13:59:56.3682205+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_damaged3.png</Source>
+      <Name>player_damaged3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\player_damaged3.xnb</Output>
+      <Time>2013-10-23T13:59:56.3692174+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe UI.spritefont</Source>
+      <Name>Segoe UI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\Segoe UI.xnb</Output>
+      <Time>2013-10-24T23:18:03.8473979+03:00</Time>
+    </Item>
+    <Item>
+      <Source>aShot.wav</Source>
+      <Name>aShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\aShot.xnb</Output>
+      <Time>2013-10-28T18:52:53.9902219+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mainTheme.wav</Source>
+      <Name>mainTheme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\mainTheme.xnb</Output>
+      <Time>2013-10-28T18:52:55.2897986+02:00</Time>
+    </Item>
+    <Item>
+      <Source>level1\ak47_bonus.png</Source>
+      <Name>level1\ak47_bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\level1\ak47_bonus.xnb</Output>
+      <Time>2013-10-24T17:13:57.0337842+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.spritefont</Source>
+      <Name>GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2013-10-24T20:30:26.1177063+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Сергей\documents\visual studio 2010\Projects\2DGame\2DGame\2DGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-23T17:01:56.2304483+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

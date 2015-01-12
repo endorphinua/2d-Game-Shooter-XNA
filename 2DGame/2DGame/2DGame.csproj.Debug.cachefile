@@ -1,0 +1,49 @@
+Content\player.xnb
+Content\horisontalLine.xnb
+Content\verticalLine.xnb
+Content\hline_25.xnb
+Content\vline_25.xnb
+Content\ak47.xnb
+Content\pistol.xnb
+Content\sidebar.xnb
+Content\minigun.xnb
+Content\weaponTexture.xnb
+Content\level1\box1.xnb
+Content\level1\box2.xnb
+Content\level1\bg.xnb
+Content\shot.xnb
+Content\level1\box3.xnb
+Content\level1\box4.xnb
+Content\level1\box5.xnb
+Content\level1\gun_box1.xnb
+Content\level1\enemy.xnb
+Content\level1\enemy_damaged1.xnb
+Content\level1\enemy_damaged2.xnb
+Content\level1\enemy_damaged3.xnb
+Content\player_damaged1.xnb
+Content\player_damaged2.xnb
+Content\player_damaged3.xnb
+Content\level1\ak47_bonus.xnb
+Content\Segoe UI.xnb
+Content\GameOver.xnb
+Content\aShot.xnb
+Content\mainTheme.xnb
+Content\point.xnb
+Content\level1\health_bonus.xnb
+Content\Script MT Bold.xnb
+Content\game_over.xnb
+Content\win.xnb
+Content\BulletsFont.xnb
+Content\ak47_sidebar.xnb
+Content\minigun_sidebar.xnb
+Content\pistol_sidebar.xnb
+Content\win_full.xnb
+Content\game_over_full.xnb
+Content\vertex.xnb
+Content\vertex_red.xnb
+Content\audio.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb
+CHANGELOG.txt
+Levels\graph1.xml
+Levels\level1.xml

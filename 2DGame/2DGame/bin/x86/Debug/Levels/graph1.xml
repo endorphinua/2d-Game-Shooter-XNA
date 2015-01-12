@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<graph>
+  <vertex id="1" good_shot="0" bad_shot="0" x="25" y="1" death="0" visits="2">
+    <edge with="2" />
+    <edge with="3" />
+    <edge with="4" />
+  </vertex>
+  <vertex id="2" good_shot="0" bad_shot="0" x="26" y="51" death="0" visits="0">
+    <edge with="1" />
+    <edge with="3" />
+    <edge with="5" />
+    <edge with="6" />
+  </vertex>
+  <vertex id="3" good_shot="0" bad_shot="0" x="71" y="32" death="0" visits="0">
+    <edge with="2" />
+    <edge with="1" />
+    <edge with="4" />
+    <edge with="5" />
+    <edge with="6" />
+    <edge with="10" />
+  </vertex>
+  <vertex id="4" good_shot="0" bad_shot="0" x="108" y=" 11" death="1" visits="0">
+    <edge with="1" />
+    <edge with="3" />
+    <edge with="5" />
+    <edge with="10" />
+  </vertex>
+  <vertex id="5" good_shot="0" bad_shot="0" x="122" y="75" death="0" visits="0">
+    <edge with="2" />
+    <edge with="3" />
+    <edge with="4" />
+    <edge with="6" />
+    <edge with="8" />
+    <edge with="10" />
+  </vertex>
+  <vertex id="6" good_shot="0" bad_shot="0" x="66" y="94" death="0" visits="0">
+    <edge with="2" />
+    <edge with="3" />
+    <edge with="5" />
+    <edge with="7" />
+    <edge with="8" />
+    <edge with="11" />
+  </vertex>
+  <vertex id="7" good_shot="0" bad_shot="0" x="1" y="125" death="0" visits="3">
+    <edge with="6" />
+    <edge with="8" />
+    <edge with="11" />
+    <edge with="12" />
+  </vertex>
+  <vertex id="8" good_shot="0" bad_shot="0" x="129" y="123" death="1" visits="0">
+    <edge with="5" />
+    <edge with="6" />
+    <edge with="7" />
+    <edge with="9" />
+    <edge with="14" />
+    <edge with="15" />
+  </vertex>
+  <vertex id="9" good_shot="0" bad_shot="0" x="200" y="125" death="1" visits="12">
+    <edge with="8" />
+    <edge with="15" />
+    <edge with="19" />
+    <edge with="23" />
+    <edge with="24" />
+    <edge with="26" />
+  </vertex>
+  <vertex id="10" good_shot="0" bad_shot="0" x="150" y="33" death="0" visits="0">
+    <edge with="3" />
+    <edge with="4" />
+    <edge with="5" />
+  </vertex>
+  <vertex id="11" good_shot="0" bad_shot="0" x="50" y="162" death="0" visits="0">
+    <edge with="6" />
+    <edge with="7" />
+    <edge with="12" />
+    <edge with="13" />
+  </vertex>
+  <vertex id="12" good_shot="0" bad_shot="0" x="0" y="201" death="0" visits="1">
+    <edge with="7" />
+    <edge with="11" />
+    <edge with="13" />
+    <edge with="43" />
+  </vertex>
+  <vertex id="13" good_shot="0" bad_shot="0" x="49" y="240" death="0" visits="14">
+    <edge with="11" />
+    <edge with="12" />
+    <edge with="17" />
+    <edge with="18" />
+    <edge with="43" />
+    <edge with="44" />
+  </vertex>
+  <vertex id="14" good_shot="0" bad_shot="0" x="108" y="174" death="0" visits="0">
+    <edge with="8" />
+    <edge with="15" />
+  </vertex>
+  <vertex id="15" good_shot="0" bad_shot="0" x="182" y="175" death="0" visits="10">
+    <edge with="8" />
+    <edge with="9" />
+    <edge with="14" />
+    <edge with="16" />
+    <edge with="31" />
+  </vertex>
+  <vertex id="16" good_shot="0" bad_shot="0" x="184" y="242" death="0" visits="26">
+    <edge with="15" />
+    <edge with="17" />
+    <edge with="18" />
+    <edge with="31" />
+    <edge with="32" />
+    <edge with="33" />
+  </vertex>
+  <vertex id="17" good_shot="0" bad_shot="0" x="111" y="276" death="2" visits="16">
+    <edge with="13" />
+    <edge with="16" />
+    <edge with="18" />
+    <edge with="33" />
+    <edge with="44" />
+  </vertex>
+  <vertex id="18" good_shot="0" bad_shot="0" x="106" y="231" death="0" visits="8">
+    <edge with="13" />
+    <edge with="16" />
+    <edge with="17" />
+  </vertex>
+  <vertex id="19" good_shot="0" bad_shot="0" x="204" y="63" death="0" visits="12">
+    <edge with="9" />
+    <edge with="20" />
+    <edge with="21" />
+    <edge with="22" />
+    <edge with="23" />
+  </vertex>
+  <vertex id="20" good_shot="0" bad_shot="0" x="211" y="9" death="0" visits="0">
+    <edge with="19" />
+    <edge with="21" />
+  </vertex>
+  <vertex id="21" good_shot="0" bad_shot="0" x="259" y="9" death="0" visits="0">
+    <edge with="19" />
+    <edge with="20" />
+    <edge with="22" />
+  </vertex>
+  <vertex id="22" good_shot="0" bad_shot="0" x="305" y="57" death="1" visits="0">
+    <edge with="19" />
+    <edge with="21" />
+    <edge with="23" />
+    <edge with="24" />
+  </vertex>
+  <vertex id="23" good_shot="0" bad_shot="0" x="257" y="105" death="0" visits="15">
+    <edge with="19" />
+    <edge with="9" />
+    <edge with="22" />
+    <edge with="24" />
+  </vertex>
+  <vertex id="24" good_shot="0" bad_shot="0" x="312" y="123" death="1" visits="55">
+    <edge with="9" />
+    <edge with="22" />
+    <edge with="23" />
+    <edge with="25" />
+    <edge with="26" />
+    <edge with="27" />
+  </vertex>
+  <vertex id="25" good_shot="0" bad_shot="0" x="361" y="115" death="0" visits="2">
+    <edge with="24" />
+    <edge with="27" />
+    <edge with="30" />
+  </vertex>
+  <vertex id="26" good_shot="0" bad_shot="0" x="254" y="164" death="0" visits="1">
+    <edge with="9" />
+    <edge with="24" />
+    <edge with="31" />
+  </vertex>
+  <vertex id="27" good_shot="0" bad_shot="0" x="326" y="199" death="0" visits="52">
+    <edge with="24" />
+    <edge with="25" />
+    <edge with="28" />
+    <edge with="29" />
+    <edge with="30" />
+  </vertex>
+  <vertex id="28" good_shot="0" bad_shot="0" x="325" y="234" death="0" visits="0">
+    <edge with="27" />
+    <edge with="29" />
+  </vertex>
+  <vertex id="29" good_shot="0" bad_shot="0" x="382" y="234" death="0" visits="0">
+    <edge with="27" />
+    <edge with="28" />
+    <edge with="30" />
+  </vertex>
+  <vertex id="30" good_shot="0" bad_shot="0" x="398" y="168" death="0" visits="19">
+    <edge with="25" />
+    <edge with="27" />
+    <edge with="29" />
+  </vertex>
+  <vertex id="31" good_shot="0" bad_shot="0" x="234" y="217" death="1" visits="12">
+    <edge with="15" />
+    <edge with="16" />
+    <edge with="26" />
+    <edge with="32" />
+    <edge with="33" />
+  </vertex>
+  <vertex id="32" good_shot="0" bad_shot="0" x="256" y="280" death="1" visits="0">
+    <edge with="31" />
+    <edge with="33" />
+    <edge with="34" />
+  </vertex>
+  <vertex id="33" good_shot="0" bad_shot="0" x="192" y="290" death="0" visits="33">
+    <edge with="16" />
+    <edge with="17" />
+    <edge with="31" />
+    <edge with="32" />
+    <edge with="34" />
+  </vertex>
+  <vertex id="34" good_shot="0" bad_shot="0" x="216" y="346" death="1" visits="16">
+    <edge with="32" />
+    <edge with="33" />
+    <edge with="35" />
+    <edge with="42" />
+  </vertex>
+  <vertex id="35" good_shot="0" bad_shot="0" x="279" y="365" death="0" visits="60">
+    <edge with="34" />
+    <edge with="36" />
+    <edge with="41" />
+    <edge with="42" />
+  </vertex>
+  <vertex id="36" good_shot="0" bad_shot="0" x="336" y="334" death="0" visits="65">
+    <edge with="35" />
+    <edge with="37" />
+    <edge with="38" />
+    <edge with="39" />
+    <edge with="40" />
+    <edge with="41" />
+  </vertex>
+  <vertex id="37" good_shot="0" bad_shot="0" x="320" y="286" death="1" visits="3">
+    <edge with="36" />
+    <edge with="38" />
+    <edge with="39" />
+  </vertex>
+  <vertex id="38" good_shot="0" bad_shot="0" x="410" y="288" death="0" visits="0">
+    <edge with="37" />
+    <edge with="39" />
+  </vertex>
+  <vertex id="39" good_shot="0" bad_shot="0" x="410" y="357" death="0" visits="7">
+    <edge with="36" />
+    <edge with="37" />
+    <edge with="38" />
+    <edge with="40" />
+  </vertex>
+  <vertex id="40" good_shot="0" bad_shot="0" x="374" y="399" death="0" visits="0">
+    <edge with="36" />
+    <edge with="39" />
+    <edge with="41" />
+  </vertex>
+  <vertex id="41" good_shot="0" bad_shot="0" x="310" y="420" death="0" visits="40">
+    <edge with="35" />
+    <edge with="36" />
+    <edge with="40" />
+    <edge with="42" />
+    <edge with="51" />
+    <edge with="61" />
+  </vertex>
+  <vertex id="42" good_shot="0" bad_shot="0" x="214" y="418" death="0" visits="0">
+    <edge with="34" />
+    <edge with="35" />
+    <edge with="41" />
+  </vertex>
+  <vertex id="43" good_shot="0" bad_shot="0" x="3" y="276" death="0" visits="222">
+    <edge with="12" />
+    <edge with="13" />
+    <edge with="44" />
+    <edge with="45" />
+    <edge with="53" />
+  </vertex>
+  <vertex id="44" good_shot="0" bad_shot="0" x="44" y="297" death="1" visits="76">
+    <edge with="13" />
+    <edge with="17" />
+    <edge with="43" />
+    <edge with="45" />
+  </vertex>
+  <vertex id="45" good_shot="0" bad_shot="0" x="46" y="365" death="1" visits="23">
+    <edge with="43" />
+    <edge with="44" />
+    <edge with="46" />
+    <edge with="47" />
+    <edge with="48" />
+    <edge with="53" />
+    <edge with="54" />
+  </vertex>
+  <vertex id="46" good_shot="0" bad_shot="0" x="112" y="351" death="0" visits="16">
+    <edge with="45" />
+    <edge with="47" />
+  </vertex>
+  <vertex id="47" good_shot="0" bad_shot="0" x="144" y="405" death="1" visits="20">
+    <edge with="45" />
+    <edge with="46" />
+    <edge with="48" />
+    <edge with="49" />
+  </vertex>
+  <vertex id="48" good_shot="0" bad_shot="0" x="71" y="441" death="0" visits="0">
+    <edge with="45" />
+    <edge with="47" />
+    <edge with="49" />
+    <edge with="54" />
+    <edge with="57" />
+  </vertex>
+  <vertex id="49" good_shot="0" bad_shot="0" x="148" y="490" death="0" visits="16">
+    <edge with="47" />
+    <edge with="48" />
+    <edge with="50" />
+    <edge with="52" />
+    <edge with="58" />
+  </vertex>
+  <vertex id="50" good_shot="0" bad_shot="0" x="237" y="482" death="0" visits="1">
+    <edge with="49" />
+    <edge with="51" />
+  </vertex>
+  <vertex id="51" good_shot="0" bad_shot="0" x="302" y="498" death="0" visits="3">
+    <edge with="41" />
+    <edge with="50" />
+    <edge with="52" />
+    <edge with="61" />
+    <edge with="62" />
+  </vertex>
+  <vertex id="52" good_shot="0" bad_shot="0" x="242" y="536" death="0" visits="14">
+    <edge with="49" />
+    <edge with="51" />
+    <edge with="58" />
+    <edge with="62" />
+    <edge with="70" />
+  </vertex>
+  <vertex id="53" good_shot="0" bad_shot="0" x="0" y="361" death="0" visits="22">
+    <edge with="43" />
+    <edge with="45" />
+    <edge with="54" />
+    <edge with="55" />
+  </vertex>
+  <vertex id="54" good_shot="0" bad_shot="0" x="26" y="406" death="0" visits="0">
+    <edge with="45" />
+    <edge with="48" />
+    <edge with="53" />
+    <edge with="55" />
+    <edge with="56" />
+    <edge with="57" />
+  </vertex>
+  <vertex id="55" good_shot="0" bad_shot="0" x="0" y="448" death="0" visits="0">
+    <edge with="53" />
+    <edge with="54" />
+    <edge with="56" />
+  </vertex>
+  <vertex id="56" good_shot="0" bad_shot="0" x="24" y="478" death="0" visits="0">
+    <edge with="54" />
+    <edge with="55" />
+    <edge with="57" />
+    <edge with="60" />
+  </vertex>
+  <vertex id="57" good_shot="0" bad_shot="0" x="66" y="478" death="0" visits="0">
+    <edge with="48" />
+    <edge with="54" />
+    <edge with="56" />
+    <edge with="59" />
+    <edge with="60" />
+  </vertex>
+  <vertex id="58" good_shot="0" bad_shot="0" x="162" y="540" death="0" visits="0">
+    <edge with="49" />
+    <edge with="52" />
+    <edge with="59" />
+  </vertex>
+  <vertex id="59" good_shot="0" bad_shot="0" x="88" y="540" death="0" visits="0">
+    <edge with="57" />
+    <edge with="58" />
+    <edge with="50" />
+  </vertex>
+  <vertex id="60" good_shot="0" bad_shot="0" x="38" y="530" death="0" visits="0">
+    <edge with="56" />
+    <edge with="57" />
+    <edge with="59" />
+  </vertex>
+  <vertex id="61" good_shot="0" bad_shot="0" x="344" y="454" death="1" visits="58">
+    <edge with="41" />
+    <edge with="51" />
+    <edge with="62" />
+  </vertex>
+  <vertex id="62" good_shot="0" bad_shot="0" x="350" y="522" death="0" visits="28">
+    <edge with="51" />
+    <edge with="52" />
+    <edge with="61" />
+    <edge with="63" />
+    <edge with="70" />
+  </vertex>
+  <vertex id="63" good_shot="0" bad_shot="0" x="348" y="608" death="0" visits="0">
+    <edge with="62" />
+    <edge with="64" />
+    <edge with="67" />
+    <edge with="68" />
+  </vertex>
+  <vertex id="64" good_shot="0" bad_shot="0" x="406" y="612" death="0" visits="0">
+    <edge with="63" />
+    <edge with="65" />
+    <edge with="67" />
+  </vertex>
+  <vertex id="65" good_shot="0" bad_shot="0" x="408" y="536" death="0" visits="0">
+    <edge with="64" />
+    <edge with="66" />
+  </vertex>
+  <vertex id="66" good_shot="0" bad_shot="0" x="410" y="484" death="0" visits="0">
+    <edge with="65" />
+  </vertex>
+  <vertex id="67" good_shot="0" bad_shot="0" x="374" y="642" death="0" visits="0">
+    <edge with="63" />
+    <edge with="64" />
+    <edge with="68" />
+  </vertex>
+  <vertex id="68" good_shot="0" bad_shot="0" x="302" y="640" death="0" visits="0">
+    <edge with="63" />
+    <edge with="67" />
+    <edge with="69" />
+  </vertex>
+  <vertex id="69" good_shot="0" bad_shot="0" x="290" y="594" death="0" visits="0">
+    <edge with="68" />
+    <edge with="70" />
+  </vertex>
+  <vertex id="70" good_shot="0" bad_shot="0" x="266" y="562" death="0" visits="0">
+    <edge with="52" />
+    <edge with="62" />
+    <edge with="69" />
+  </vertex>
+</graph>
